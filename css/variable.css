@@ -1,0 +1,13 @@
+:root {
+  --bg-gradient: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  
+  --primary-gradient: linear-gradient(90deg, #ff0080, #7928ca);
+  --secondary-gradient: linear-gradient(90deg, #00c6ff, #0072ff);
+  --accent-gradient: linear-gradient(90deg, #f7971e, #ffd200);
+
+  --card-bg: #1b1b3a;
+  --text-light: #ffffff;
+  --text-muted: #c7c7ff;
+
+  --font-main: 'Poppins', sans-serif;
+}
